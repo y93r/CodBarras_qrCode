@@ -7,6 +7,6 @@
 
 ### Criar QRCode:
 - Biblioteca pyqrcode para criar QRCOde;
-- Definir o que será gerado;
+- Definir o que será direcionado;
 - Abrir a imagem;
 - Salvá-la para usar outras vezes.
